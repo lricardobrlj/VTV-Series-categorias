@@ -1,10 +1,30 @@
 <channels>
 <channel>
-<name>Sweet Tooth</name>
-<thumbnail>https://d1sygdf8atpyev.cloudfront.net/vodu/media/BR/img-sweet-tooth.jpg</thumbnail>
-<fanart>https://mixdeseries.com.br/wp-content/uploads/2021/06/Sweet-Tooth-2-temporada-1024x580.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Sweet%20Tooth</externallink>
-<info>Sweet Tooth conta a história de Gus (Christian Convery), um menino-cervo que vive em um futuro pós-apocalíptico e faz parte de uma nova raça híbrida de humanos e animais. Isso é resultado de uma série de mutações que aconteceram depois do "Grande Colapso", quando um misterioso e mortal vírus espalhou o caos pelo mundo. Devido à pandemia, Gus cresceu isolado por uma década, até que decide deixar sua casa na floresta para explorar o que restou lá fora e encontrar sua mãe desaparecida. Mas, contra todas as probabilidades, ele se torna amigo do ex-jogador de futebol Tommy Jepperd (Nonso Anozie), agora viajante solitário e um dos sobreviventes da catástrofe. Juntos, eles embarcam em uma aventura extraordinária por um planeta devastado – e perigoso. Ao descobrir que existem outros como ele, Gus acaba ingressando em uma família de híbridos enquanto busca por respostas acerca dessa nova realidade e o mistério por trás da origem de sua espécie.</info>
+<name>Dois Homens e Meio</name>
+<thumbnail>https://www.baixarseriesmega.org/wp-content/uploads/2018/12/Two-and-a-Half-Men.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20Meio%20Temporadas</externallink>
+<fanart>https://staticr1.blastingcdn.com/media/photogallery/2017/1/10/660x290/b_1200x675/veja-como-estao-os-atores-e-atrizes-do-seriado-dois-homens-e-meio_1076471.jpg</fanart>
+<info>O quiroprático e pai solteiro Alan Harper mora em uma casa de frente para a praia com o filho Jake e o bilionário da internet Walden Schmidt, que se muda com os Harper e se oferece para comprar a casa depois da morte súbita do irmão de Alan, Charlie. Charlie era o proprietário da casa e morou lá com Alan e Jake quando pai e filho se mudaram após o divórcio de Alan. A ex-mulher de Alan e mãe de Jake, Judith, continua a fazer parte de suas vidas. Participam também da série a mãe de Alan, Evelyn, e a empregada de língua afiada Berta.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Falcão e o Soldado Invernal</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Falc%C3%A3o%20e%20o%20Soldado%20Invernal%20Temporadas</externallink>
+<fanart>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</fanart>
+<info>Após os eventos de “Vingadores: Ultimato”, Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades – e a paciência.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Game of Thrones</name>
+<thumbnail>https://static.posters.cz/image/750webp/49129.webp</thumbnail>
+<fanart>https://www.menosfios.com/wp-content/uploads/2017/08/Game-Of-Thrones-Desktop-Wallpaper.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Game%20of%20Thrones</externallink>
+<info>Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.</info>
 </channel>
 </channels>
 
@@ -33,22 +53,10 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
-<name>Falcão e o Soldado Invernal</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Falc%C3%A3o%20e%20o%20Soldado%20Invernal%20Temporadas</externallink>
-<fanart>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</fanart>
-<info>Após os eventos de “Vingadores: Ultimato”, Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades – e a paciência.</info>
+<name>Sweet Tooth</name>
+<thumbnail>https://d1sygdf8atpyev.cloudfront.net/vodu/media/BR/img-sweet-tooth.jpg</thumbnail>
+<fanart>https://mixdeseries.com.br/wp-content/uploads/2021/06/Sweet-Tooth-2-temporada-1024x580.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Sweet%20Tooth</externallink>
+<info>Sweet Tooth conta a história de Gus (Christian Convery), um menino-cervo que vive em um futuro pós-apocalíptico e faz parte de uma nova raça híbrida de humanos e animais. Isso é resultado de uma série de mutações que aconteceram depois do "Grande Colapso", quando um misterioso e mortal vírus espalhou o caos pelo mundo. Devido à pandemia, Gus cresceu isolado por uma década, até que decide deixar sua casa na floresta para explorar o que restou lá fora e encontrar sua mãe desaparecida. Mas, contra todas as probabilidades, ele se torna amigo do ex-jogador de futebol Tommy Jepperd (Nonso Anozie), agora viajante solitário e um dos sobreviventes da catástrofe. Juntos, eles embarcam em uma aventura extraordinária por um planeta devastado – e perigoso. Ao descobrir que existem outros como ele, Gus acaba ingressando em uma família de híbridos enquanto busca por respostas acerca dessa nova realidade e o mistério por trás da origem de sua espécie.</info>
 </channel>
 </channels>
-
-<channels>
-<channel>
-<name>Game of Thrones</name>
-<thumbnail>https://static.posters.cz/image/750webp/49129.webp</thumbnail>
-<fanart>https://www.menosfios.com/wp-content/uploads/2017/08/Game-Of-Thrones-Desktop-Wallpaper.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Game%20of%20Thrones</externallink>
-<info>Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.</info>
-</channel>
-</channels>
-
-
