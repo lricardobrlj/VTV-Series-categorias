@@ -84,3 +84,13 @@ Gênero:Ação, Animação, Drama</info>
 <info>Sweet Tooth conta a história de Gus (Christian Convery), um menino-cervo que vive em um futuro pós-apocalíptico e faz parte de uma nova raça híbrida de humanos e animais. Isso é resultado de uma série de mutações que aconteceram depois do "Grande Colapso", quando um misterioso e mortal vírus espalhou o caos pelo mundo. Devido à pandemia, Gus cresceu isolado por uma década, até que decide deixar sua casa na floresta para explorar o que restou lá fora e encontrar sua mãe desaparecida. Mas, contra todas as probabilidades, ele se torna amigo do ex-jogador de futebol Tommy Jepperd (Nonso Anozie), agora viajante solitário e um dos sobreviventes da catástrofe. Juntos, eles embarcam em uma aventura extraordinária por um planeta devastado – e perigoso. Ao descobrir que existem outros como ele, Gus acaba ingressando em uma família de híbridos enquanto busca por respostas acerca dessa nova realidade e o mistério por trás da origem de sua espécie.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>The Witcher</name>
+<thumbnail>https://pbs.twimg.com/media/E29r6i5VUA0FVnW.jpg</thumbnail>
+<fanart>https://tecnoblog.net/wp-content/uploads/2020/01/the-witcher-netflix.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/The%20Witcher</externallink>
+<info>O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar em um mundo onde as pessoas, muitas vezes, são mais perversas do que as criaturas selvagens.</info>
+</channel>
+</channels>
