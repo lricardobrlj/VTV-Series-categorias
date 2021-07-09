@@ -87,6 +87,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>The Big Bang Theory</name>
+<thumbnail>https://s2.glbimg.com/476xiyzHwobzomhiO6QZ8ZaZPCM=/362x536/https://s2.glbimg.com/gw3G9SRdfhWZbNxnMuwbznGiAW0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/s/Y/z9FwyXQjq1flWRIm3mUA/2020-726-series-warner-the-big-bang-theory-poster.jpg</thumbnail>
+<fanart>https://www.planocritico.com/wp-content/uploads/50605.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/The%20Big%20Bang%20Theory</externallink>
+<info>Os melhores amigos e companheiros de apartamento Leonard e Sheldon são físicos que trabalham no Instituto Tecnológico da Califórnia (Caltech) e são capazes de explicar a todo mundo mais do que gostariam de saber sobre física quântica, mas superar as situações sociais mais básicas, especialmente aquelas envolvendo mulheres, os deixa completamente perdidos. Que sorte quando a gostosa garçonete/atriz aspirante Penny se muda para o apartamento ao lado. Wolowitz e Koothrappali, também da Caltech, são vistos frequentemente passando o tempo com Leonard e Sheldon. Será que os mundos vão se colidir? Será que Einstein teorizava na floresta?</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>The Witcher</name>
 <thumbnail>https://pbs.twimg.com/media/E29r6i5VUA0FVnW.jpg</thumbnail>
 <fanart>https://tecnoblog.net/wp-content/uploads/2020/01/the-witcher-netflix.jpg</fanart>
