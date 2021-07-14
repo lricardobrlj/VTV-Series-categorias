@@ -77,6 +77,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>Sobrenatural</name>
+<thumbnail>https://www.justwatch.com/images/poster/196088297/s332</thumbnail>
+<fanart>https://www.justwatch.com/images/backdrop/8604625/s640/sobrenatural</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Sobrenatural%20Temporadas</externallink>
+<info>Os irmãos Sam e Dean Winchester encaram cenários sinistros caçando monstros. Velhos truques, armas e esconderijos não funcionam mais e seus amigos os traem, forçando os irmãos a contar um com o outro enquanto enfrentam novos inimigos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Stargirl</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWkZrydIDgRrT0_4cImWDUNaHA243JTK_Iu9E84EOgmJXzIEG</thumbnail>
 <fanart>https://observatoriodeseries.uol.com.br/wp-content/uploads/2020/03/Novo-Projeto-2020-03-17T045759.526.jpg</fanart>
