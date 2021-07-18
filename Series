@@ -18,6 +18,15 @@
 </channel>
 </channels>
 
+<channel>
+<name>Euphoria</name>
+<thumbnail>https://www.justwatch.com/images/poster/241207453/s332</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Euphoria%20Temporadas</externallink>
+<fanart>https://www.luxwoman.pt/wp-content/uploads/2019/06/hbo-1000x600.png</fanart>
+<info>Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.</info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>Game of Thrones</name>
