@@ -149,3 +149,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/R</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>S</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/S</externallink>
+</channel>
+</channels>
