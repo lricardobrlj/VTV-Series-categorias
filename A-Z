@@ -104,8 +104,16 @@
 
 <channels>
 <channel>
-<nameM</name>
+<name>M</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/M</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>N</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/N</externallink>
 </channel>
 </channels>
