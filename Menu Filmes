@@ -13,3 +13,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>A-Z</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series-categorias/main/A-Z</externallink>
+</channel>
+</channels>
