@@ -29,3 +29,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/C</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>D</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/D</externallink>
+</channel>
+</channels>
