@@ -173,3 +173,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/U</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>V</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/V</externallink>
+</channel>
+</channels>
