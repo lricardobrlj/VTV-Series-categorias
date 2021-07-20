@@ -5,3 +5,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/0-9</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>A</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/A</externallink>
+</channel>
+</channels>
