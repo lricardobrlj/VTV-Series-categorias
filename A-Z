@@ -13,3 +13,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/A</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>B</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/B</externallink>
+</channel>
+</channels>
