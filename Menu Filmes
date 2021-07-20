@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>ADICIONADOS RECENTIMENTE</name>
+<name>ADICIONADOS RECENTEMENTE</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/adicionados%20recentimente</externallink>
 </channel>
@@ -19,5 +19,13 @@
 <name>A-Z</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series-categorias/main/A-Z</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Categorias ( Em Breve )</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
 </channel>
 </channels>
