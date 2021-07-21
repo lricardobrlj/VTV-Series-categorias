@@ -1,5 +1,13 @@
 <channels>
 <channel>
+<name>Aventura</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Aventura</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Drama</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Drama</externallink>
