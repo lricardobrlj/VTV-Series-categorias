@@ -82,6 +82,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>Rick and Morty</name>
+<thumbnail>https://img.ibxk.com.br//ms/images/highlights/000/042/415/40319.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/05/terceira-temporada-da-animacao-para-adultos-rick-and-morty-e-disponibilizada-pela-netflix-1544032759199_v2_1920x1080.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Rick%20e%20Morty%20Temporadas</externallink>
+<info>Acompanhe malucas viagens no tempo-espaço e por universos paralelos com Rick, um cientista com problemas com a bebida, e seu neto Morty, um adolescente não tão brilhante quanto o avô.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Sobrenatural</name>
 <thumbnail>https://www.justwatch.com/images/poster/196088297/s332</thumbnail>
 <fanart>https://www.justwatch.com/images/backdrop/8604625/s640/sobrenatural</fanart>
