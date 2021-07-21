@@ -8,6 +8,14 @@
 
 <channels>
 <channel>
+<name>Comedia </name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Comedia</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Drama</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Drama</externallink>
