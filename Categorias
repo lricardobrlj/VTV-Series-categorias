@@ -8,6 +8,14 @@
 
 <channels>
 <channel>
+<name>Fantasia</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Fantasia</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Suspense</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Suspense</externallink>
