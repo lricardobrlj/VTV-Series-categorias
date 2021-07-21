@@ -1,5 +1,13 @@
 <channels>
 <channel>
+<name>Drama</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Drama</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Suspense</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Suspense</externallink>
