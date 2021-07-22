@@ -32,6 +32,14 @@
 
 <channels>
 <channel>
+<name>Crime </name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Crime</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Drama</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Drama</externallink>
