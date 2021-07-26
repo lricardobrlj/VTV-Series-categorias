@@ -72,6 +72,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>Monstros no Trabalho</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
+<fanart>https://lumiere-a.akamaihd.net/v1/images/1920x1080_logo_affea6f7.png</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Monstros%20no%20Trabalho</externallink>
+<info>Tylor Tuskmon é o primeiro da turma na Universidade Monstros e chega à Monstros S.A. para começar seu trabalho dos sonhos como um Assustador… ou não. No dia em que ele está pronto para começar, ele descobre que não querem Assustadores… querem Cômicos! Tylor é temporariamente transferido para a equipe de instaladores da Monstros S.A. Essa mudança destrói o plano de Tylor, mas ele tem um novo objetivo: se tornar um Cômico.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Resident Evil: No Escuro Absoluto</name>
 <thumbnail>https://pbs.twimg.com/media/Ei7tAKLWoAAta0e.jpg</thumbnail>
 <fanart>https://observatoriodegames.uol.com.br/wp-content/uploads/2021/06/Resident-Evil.jpg</fanart>
