@@ -80,6 +80,14 @@
 
 <channels>
 <channel>
+<name>Musical</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Musical</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Romance</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes%20Romance</externallink>
