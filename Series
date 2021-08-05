@@ -59,6 +59,16 @@
 
 <channels>
 <channel>
+<name>iCarly</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg</thumbnail>
+<fanart>https://larepublica.pe/resizer/RWnV6IWHjUphVhGDVPANjuWw7XQ=/1200x660/top/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/GWXJQICWARCCDLYOI4ZIBBRX4Y.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/iCarly</externallink>
+<info>Carly, Spencer e Freddie exploram novas aventuras em seus vinte e poucos anos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Invencível</name>
 <thumbnail>https://media.fstatic.com/kCUpu5uce5A-GH3SjFq0bCQ0-H4=/290x478/smart/media/movies/covers/2020/10/cats_6rsEUv8.jpg</thumbnail>
 <fanart>https://i0.wp.com/indutalks.com.br/wp-content/uploads/2021/04/Invincible-Amazon-original.jpg?w=1280&ssl=1</fanart>
