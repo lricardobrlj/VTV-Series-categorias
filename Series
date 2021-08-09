@@ -172,6 +172,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>Superman e Lois</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
+<fanart>http://universoheroico.com.br/wp-content/uploads/2021/07/Superman-e-Lois-tera-2a-temporada.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Superman%20e%20Lois</externallink>
+<info>Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Sweet Tooth</name>
 <thumbnail>https://d1sygdf8atpyev.cloudfront.net/vodu/media/BR/img-sweet-tooth.jpg</thumbnail>
 <fanart>https://mixdeseries.com.br/wp-content/uploads/2021/06/Sweet-Tooth-2-temporada-1024x580.jpg</fanart>
