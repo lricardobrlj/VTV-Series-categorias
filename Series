@@ -28,6 +28,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>E Se…?</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/e7n55C4027aRPHNmjE8XIk8nKvZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/E%20Se%E2%80%A6%3F%20Temporadas</externallink>
+<fanart>https://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2021-07/bande-annonce-what-if.jpg</fanart>
+<info>Baseada nos populares quadrinhos homônimos, a produção explorará histórias hipotéticas que poderiam ter mudado completamente o rumo do universo cinematográfico da editora.</info>
+</channel>
+</channels>
+
 <channel>
 <name>Euphoria</name>
 <thumbnail>https://www.justwatch.com/images/poster/241207453/s332</thumbnail>
