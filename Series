@@ -112,6 +112,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>Lucifer</name>
+<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/02/lucifer-serie-tv-cartel.jpg</thumbnail>
+<fanart>https://www.elhombre.com.br/wp-content/uploads/2018/10/lucifer-768x432.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/L%C3%BAcifer</externallink>
+<info>Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Mestres do Universo Salvando Eternia</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/jccO17zIjB6lWUmRNCwzEs0QwA2.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/07/mestres-do-universo-netflix-2.jpg</fanart>
