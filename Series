@@ -152,6 +152,16 @@ Gênero:Ação, Animação, Drama</info>
 
 <channels>
 <channel>
+<name>Ragnarok</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2021/06/10165134/390-ragnarok-2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Ragnarok</externallink>
+<info>Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Resident Evil: No Escuro Absoluto</name>
 <thumbnail>https://pbs.twimg.com/media/Ei7tAKLWoAAta0e.jpg</thumbnail>
 <fanart>https://observatoriodegames.uol.com.br/wp-content/uploads/2021/06/Resident-Evil.jpg</fanart>
