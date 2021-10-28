@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>LANÇAMENTOS</name>
-<thumbnail>https://i.imgur.com/ILJzbmt.png</thumbnail>
+<thumbnail>https://i.imgur.com/689tG2e.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Lan%C3%A7amento</externallink>
 </channel>
 </channels>
@@ -20,7 +20,7 @@
 <channels>
 <channel>
 <name>TODOS OS FILMES</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/o3YWuO9.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Filmes</externallink>
 </channel>
 </channels>
