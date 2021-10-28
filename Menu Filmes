@@ -1,10 +1,21 @@
 <channels>
 <channel>
+<name>LANÇAMENTOS</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/Lan%C3%A7amento</externallink>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>ADICIONADOS RECENTEMENTE</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-/main/adicionados%20recentimente</externallink>
 </channel>
 </channels>
+
+
 
 <channels>
 <channel>
