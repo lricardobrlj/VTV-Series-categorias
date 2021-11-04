@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>13 Reasons Why</name>
+<thumbnail>https://ichef.bbci.co.uk/news/640/cpsprodpb/4197/production/_101619761_mv5bndgwndu2mjgwml5bml5banbnxkftztgwmte2nzq0ntm-._v1_sy1000_cr006741000_al_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/13%20Reasons%20Why</externallink>
+<fanart>https://poltronanerd.com.br/wp-content/uploads/2018/05/13_reasons_why_season_2_2018.jpg</fanart>
+<info>Após o suicídio de uma adolescente, seu colega de classe recebe gravações que revelam os motivos de sua decisão.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>American Gods</name>
 <thumbnail>https://jovemnerd.com.br/wp-content/uploads/2020/12/american-gods-3a-temporada-poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/American%20Gods%20Temporadas</externallink>
